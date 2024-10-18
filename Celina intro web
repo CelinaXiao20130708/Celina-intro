@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>肖望舒 Celina 自我介绍</title>
+    <style>
+        body {
+            font-family: '正楷', serif; /* 优雅字体 */
+            background-image: url('https://699pic.com/tupian-600521837.html'); /* 背景图片，可以换成你自己的图片URL */
+            background-size: cover;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+        .content {
+            background-color: rgba(0, 0, 0, 0.6); /* 让背景图不太刺眼 */
+            padding: 20px;
+            border-radius: 10px;
+        }
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>肖望舒 Celina</h1>
+        <p>大家好！我是来自杭州湾六年级三班的学生。我的兴趣爱好非常广泛，包括弹吉他🎸、游泳🏊‍♀️、辩论🗣️、以及在iPad上画画✍️等。</p>
+        <p>我不仅成绩优秀，还和同学们关系融洽。我的妹妹也在同一个学校上学，她今年8岁。</p>
+        <p>虽然我有很多优点，但也有一些需要改进的地方，比如说效率不高，尤其是数学成绩不够理想。在接下来的初中阶段，我会努力克服这些困难，争取成为更好的自己。</p>
+    </div>
+</body>
+</html>
